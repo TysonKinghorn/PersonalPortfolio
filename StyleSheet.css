@@ -2,16 +2,10 @@
     scroll-behavior:smooth;
     background:lightgrey;
 }
-nav {
+#nav {
     position:fixed;
-    left:8%;
+    left:5%;
     top:18%;
-}
-#navlist {
-    list-style:none;
-}
-.navlink {
-    text-decoration:none;
 }
 #home {
     height:60em;
@@ -19,7 +13,7 @@ nav {
 }
 #about {
     height:100em;
-    background:yellow;
+    background:brown;
 }
 #contact {
     height:50em;
