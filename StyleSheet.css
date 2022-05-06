@@ -1,3 +1,31 @@
-﻿body
-{
+﻿body {
+    scroll-behavior:smooth;
+    background:lightgrey;
+}
+nav {
+    position:fixed;
+    left:8%;
+    top:18%;
+}
+#navlist {
+    list-style:none;
+}
+.navlink {
+    text-decoration:none;
+}
+#home {
+    height:60em;
+    background:blue;
+}
+#about {
+    height:100em;
+    background:yellow;
+}
+#contact {
+    height:50em;
+    background:red;
+}
+#footer {
+    height:12em;
+    background:black;
 }
